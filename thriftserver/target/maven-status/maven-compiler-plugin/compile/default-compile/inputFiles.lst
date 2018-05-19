@@ -1,0 +1,6 @@
+/home/haind6/workspace/java-proj/example-apache-thrift/thriftserver/src/main/java/com/github/nduyhai/thriftserver/CrossPlatformServiceImpl.java
+/home/haind6/workspace/java-proj/example-apache-thrift/generated/com/github/nduyhai/thriftservice/CrossPlatformException.java
+/home/haind6/workspace/java-proj/example-apache-thrift/thriftserver/src/main/java/com/github/nduyhai/thriftserver/CrossPlatformServiceServer.java
+/home/haind6/workspace/java-proj/example-apache-thrift/thriftserver/src/main/java/com/github/nduyhai/thriftserver/ThriftServerApplication.java
+/home/haind6/workspace/java-proj/example-apache-thrift/generated/com/github/nduyhai/thriftservice/CrossPlatformMessage.java
+/home/haind6/workspace/java-proj/example-apache-thrift/generated/com/github/nduyhai/thriftservice/CrossPlatformService.java
